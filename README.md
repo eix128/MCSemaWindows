@@ -6,7 +6,8 @@ So you can inject any code into exe or dll files.
 This program requires 
 IDA 7.0+
 
-You need python 2.7 for IDA 7.0+
+You need python 2.7 for IDA 7.0+ PRO
+It wont work on IDA Free Edition
 Install Python 2.7 for IDA PRO
 
 https://www.python.org/ftp/python/2.7/python-2.7.amd64.msi
